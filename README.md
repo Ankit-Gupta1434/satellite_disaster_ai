@@ -79,8 +79,8 @@ Ensure you have Git LFS installed before cloning:
 
 ```bash
 git lfs install
-git clone https://github.com/Architpateltech/sattelitefloodai.git
-cd sattelitefloodai
+git clone https://github.com/Ankit-Gupta1434/satellite_disaster_ai.git
+cd satellite_disaster_ai
 ```
 
 ### 2. Set Up Virtual Environment
